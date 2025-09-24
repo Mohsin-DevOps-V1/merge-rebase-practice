@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line C
+=======
+Line B
+>>>>>>> 80f8148 (Commit B)
