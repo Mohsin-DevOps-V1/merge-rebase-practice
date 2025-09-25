@@ -18,3 +18,10 @@ def multiply(a, b):
     return a * b
 
 PI = 3.14159
+
+
+ef divide(a, b):
+    """Returns the quotient of two numbers."""
+    if b == 0:
+        raise ValueError("Cannot divide by zero")
+    return a / b
